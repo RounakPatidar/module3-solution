@@ -27,3 +27,16 @@
       font-weight: bold;
       
     }
+   nav{
+   background-color:  grey;
+   }
+   a{
+   	color: black;
+   }
+  ul{
+  	background-color: white;
+  	margin-top: 0px; 
+  	margin-bottom: 0px; 
+  }
+
+
