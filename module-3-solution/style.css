@@ -1,0 +1,29 @@
+@media(min-width: 992px){
+	
+.jumbotron
+{
+	height: 50%;
+	width: 100%;
+	background-color: grey;
+    
+}
+}
+@media only screen and (max-width: 1700px) {
+        #nav-list {
+            display: none;
+        }
+    }
+     @media only screen and (max-width: 600px) {
+        #nav-list {
+            display: list-item;
+            
+        }
+    }
+    .decoration
+    {
+     
+      list-style: none;
+      text-align: center;
+      font-weight: bold;
+      
+    }
